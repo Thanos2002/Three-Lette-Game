@@ -19,3 +19,5 @@ The Three-Letter Game is a **two-player** game played alternately (player vs AI)
    
 4. Game Continuation: The game continues until one player completes the formation of either ***'CSE'*** or ***'ESC'***.
 
+## DEMO (Computer Wins and Draw):
+https://github.com/user-attachments/assets/1ff63f26-411b-481e-b1ac-7019507fcc7d
